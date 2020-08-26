@@ -26,13 +26,25 @@ export default class SongItem extends React.PureComponent {
     render() {
         return (
             <div className="SongItem">
-                <div className="_listItem">
-                    { this.props.title }
+                <div 
+                    className="_listItem"
+                    onClick={() => this.setState({ show: true })}
+                >
+                    <div>{ /* G_SONG_TITLE */ }</div>
                 </div>
                 {
                     this.state.show
                     &&
-                    <Suspense fallback={<div>Loading...</div>}><SongComponent/></Suspense>
+                    <div
+                        className="_songBackground"
+                        onClick={event => {
+                            if (event.target == event.currentTarget) {
+                                this.setState({ show: false });
+                            }
+                        }}
+                    >
+                        <Suspense fallback={<div>Loading...</div>}><SongComponent/></Suspense>
+                    </div>
                 }
             </div>
         );

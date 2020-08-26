@@ -27,7 +27,8 @@ for (const fileName of filesNames) {
     songsItemsImportsFiles.push([title, songItemImportFile]);
 
     let SongItemFile = fs.readFileSync(path.join(__dirname, "src", "SongItem.jsx"), "utf-8");
-    SongItemFile = SongItemFile.replace("/* G_SONG_FILENAME */", `"./${songImportFile}"`);
+    SongItemFile = SongItemFile.replace("/* G_SONG_FILENAME */", `"${songImportFile}"`);
+    SongItemFile = SongItemFile.replace("{ /* G_SONG_TITLE */ }", songData.title);
     fs.writeFileSync(path.join(__dirname, "tmp", songItemImportFile), SongItemFile);
 
     let SongFile = fs.readFileSync(path.join(__dirname, "src", "Song.jsx"), "utf-8");

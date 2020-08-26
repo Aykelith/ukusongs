@@ -138,5 +138,9 @@ module.exports = {
 		net: "{}",
 		console: "{}",
 		v8: "{}"
+	},
+	devServer: {
+		contentBase: path.join(__dirname, "docs"),
+		compress: true
 	}
 };
