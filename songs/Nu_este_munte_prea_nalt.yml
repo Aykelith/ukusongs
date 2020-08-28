@@ -1,0 +1,22 @@
+title: Nu este munte prea 'nalt
+key: G
+difficulty: easy
+progression:
+    verse: G Am C F G
+    chorus: D G Am | D G
+song: |
+  [verse]
+  &G                                   Am
+  *Nu este munte prea ’nalt ca sa nu-l miste,
+  &C                  D             G      C D
+  *Nu e problema prea grea sa n-o rezolve,
+  &G                                 Am
+  *Nu e furtuna prea rea sa n-o linisteasca,
+  &C                D             G    D
+  *Nu e durere prea grea sa n-o aline.
+
+  [chorus]
+  &    D     G                          Am
+  *//: El purtat-a pe umerii Sai povara lumii,
+  &   D                           G
+  *El poate lua chiar acum povara ta. ://

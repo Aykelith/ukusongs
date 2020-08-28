@@ -1,0 +1,38 @@
+title: Din adancul inimii
+key: C
+difficulty: easy
+progression:
+    verse: C F C G C
+    chorus: F C G C | G C D G | F C Em Am | F C F G
+song: |
+  [verse]
+  &      C
+  *Din adâncul inimii
+  &    F                 C
+  *Pe Isus vreau a-L vesti,
+  &      G                        C     G
+  *S! Îi cânt mereu un mare: „Aleluia!”
+  &         C
+  *Vreau s! spun întregii lumi
+  &     F            C
+  *Dumnezeu cât e de bun
+  &       G                          C
+  *Si-mpreun! s!-I cânt!m toti: „Aleluia!”
+
+  [chorus]
+  &   F C            G      C
+  *Aleluia! Te lauda al meu suflet,
+  &   F C            D           G
+  *Aleluia! Te lauda gura mea mereu,
+  &   F C                 Em  Am
+  *Aleluia! Vreau sa spun tuturora
+  &     F        C       F         G
+  *Ce maret esti Doamne, Dumnezeul meu!
+
+  *[final]
+  &      C
+  *Din adâncul inimii
+  &    F                 C
+  *Pe Isus vreau a-L vesti,
+  &      G                        C    
+  *S! Îi cânt mereu un mare: „Aleluia!”

@@ -16,6 +16,8 @@ let songsItemsImportsFiles = [];
 const SongContentLineBeggining = "\t\t\t\t\t";
 
 for (const fileName of filesNames) {
+    if (fileName.includes(".todo")) continue;
+    
     const filePath = path.join(__dirname, "songs", fileName);
 
     const songData = jsYAML.safeLoad(fs.readFileSync(filePath, 'utf8'));
