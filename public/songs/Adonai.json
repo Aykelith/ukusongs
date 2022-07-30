@@ -1,0 +1,35 @@
+{
+    "name": "Adonai",
+    "key": "C",
+    "song_keys": [
+        {
+            "label": "Verse",
+            "keys": [
+                "a G d a",
+                "F C G"
+            ],
+            "repeat": "2"
+        },
+        {
+            "label": "Prechorus",
+            "keys": [
+                "F G"
+            ],
+            "repeat": "2"
+        },
+        {
+            "label": "Chorus",
+            "keys": [
+                "a F C F x 2",
+                "last time - a (F C G)"
+            ]
+        },
+        {
+            "label": "Coda",
+            "keys": [
+                "C F C G"
+            ]
+        }
+    ],
+    "url": "https://melodia.ro/songs/Adonai"
+}

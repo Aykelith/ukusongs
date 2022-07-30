@@ -1,0 +1,30 @@
+{
+    "name": "Over the rainbow",
+    "key": "C",
+    "song_keys": [
+        {
+            "label": "Intro",
+            "keys": [
+                "C G Am F",
+                "C G Am F",
+                "F F"
+            ]
+        },
+        {
+            "label": "Ooo",
+            "keys": [
+                "C Em F C",
+                "F E7 Am F"
+            ]
+        },
+        {
+            "label": "Chorus",
+            "keys": [
+                "C Em F C",
+                "F C G Am F"
+            ],
+            "repeat": "2"
+        }
+    ],
+    "url": "https://ukebuddy.com/ukulele-tabs/israel-kamakawiwoole/over-the-rainbow-wonderful-world"
+}
