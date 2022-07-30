@@ -1,17 +1,14 @@
 /** @type {import('next').NextConfig} */
 const path = require("path");
 const withPWA = require("next-pwa");
-const runtimeCaching = require("next-pwa/cache");
 
 const nextConfig = withPWA({
     reactStrictMode: true,
-    future: {
-        webpack5: true,
-    },
     pwa: {
         dest: "public",
-        runtimeCaching,
+        register: true
     },
+    output: "standalone",
     webpack(config) {
         config.module.rules.push({
             test: /\.svg$/,
