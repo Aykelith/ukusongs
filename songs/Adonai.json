@@ -1,0 +1,59 @@
+{
+    "name": "Adonai",
+    "key": "C",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "(a)Doamne, în veci vei (G)fi",
+                "Mis(d)terul ce-l voi iu(a)bi...",
+                "(F)Domn peste cer și pă(C)mânt",
+                "Dumnezeu minu(G)nat.",
+                "Vino-n lumina Ta",
+                "Îmbrăcat în onoarea Ta.",
+                "Strigă acum inima:",
+                "Vino Rege din nou!"
+            ]
+        },
+        {
+            "name": "Pc1",
+            "verses": [
+                "Și (F)toți azi vom ve(G)dea,",
+                "Din (F/A)ceruri gloria (G/B)Ta,"
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "Ado(Am)nai, Ado(F)nai,",
+                "Toți ge(C)nunchii astăzi se (G)vor pleca!",
+                "Ado(Am)nai, Ado(F)nai,",
+                "Dumne(C)zeu doar Tu ești",
+                "Iar noi (G)vom striga: „Ado(Am)nai!”"
+            ]
+        },
+        {
+            "name": "S2",
+            "verses": [
+                "În Ierusalim stăm,",
+                "Laude-Ți înălțăm.",
+                "Porți deschise avem,",
+                "Ne e dor să revii."
+            ]
+        },
+        {
+            "name": "Pc2",
+            "verses": [
+                "Și tot Sionul cântă",
+                "Baruch haba b'Shem,"
+            ]
+        },
+        {
+            "name": "B",
+            "verses": [
+                "Tu ești Domn peste-ntreg pământ! x2"
+            ]
+        }
+
+    ]
+}

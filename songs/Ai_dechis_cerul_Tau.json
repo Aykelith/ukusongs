@@ -1,0 +1,30 @@
+{
+    "name": "Ai dechis cerul Tau",
+    "key": "A",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "Ai des(A)chis cerul Tau,",
+                "Ai la(c#)sat slava Ta si-ai ve(f#)nit",
+                "Pentru (D)mine, un (b)biet paca(E)tos.",
+                "M-ai iu(A)bit asa mult, c-ai mu(c#)rit la Cal(f#)var",
+                "Sa des(D)chizi ochii mei sa-nte(b)leg",
+                "Si sa Te sla(E)vesc"
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "Pentru (A)cântec, speranta si raza de soare,",
+                "Lu(f#)mina si pace pe-a mea carare,",
+                "Pentru (D)tot ce Tu îmi (b)dai, multu(E)mesc!",
+                "Pentru (A)zambetul Tau inscris printre stele,",
+                "Manga(f#)ierea Ta în clipele grele,",
+                "Pentru (D)dragostea Ta revar(b)sata în mine,",
+                "Ma în(E)chin, recunosc ca esti Domn",
+                "Si rostesc: „Multu(A)mesc!”"
+            ]
+        }
+    ]
+}

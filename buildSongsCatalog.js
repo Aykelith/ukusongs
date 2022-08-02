@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 
 const PublicPath = path.join(__dirname, "public");
-const SongsPath = path.join(PublicPath, "songs");
+const SongsPath = path.join(__dirname, "songs");
 const SongsCatalogFilePath = path.join(PublicPath, "songs.json");
 
 let songsCatalog = { lastUpdate: Date.now(), songs: [] };

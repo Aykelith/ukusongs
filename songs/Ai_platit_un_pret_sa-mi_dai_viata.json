@@ -1,0 +1,39 @@
+{
+    "name": "Ai platit un pret sa-mi dai viata",
+    "key": "G",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "(G)Ai platit un (C)pret sa-mi dai (G)viata,",
+                "(G)Sa traiesc prin (a)har azi, mântu(D)it,",
+                "(a)N-am cuvinte, (C)Doamne, sa pot (D)spune",
+                "(a)Cât de drag îmi (C)esti, si-s feri(D)cit!",
+                "Numele mi-e scris în Cartea Vietii",
+                "Si doresc, Isus, cu orice pret,",
+                "Sa ramân statornic în credinta,",
+                "Sa Te laud si sa Te slavesc."
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "Voia (G)Ta, nu voia mea,",
+                "Sa se faca, (a)Doamne-n viata mea,",
+                "Sa tra(G)iesc cum Tu doresti, o, Domnul (G … D)meu!",
+                "Toata roada Duhului Tau Sfânt",
+                "Zi de zi s-o am pe-acest pamânt,",
+                "Lumina sa raspândesc mereu în jurul meu."
+            ]
+        },
+        {
+            "name": "S2",
+            "verses": [
+                "Pacea Ta, ce-ntrece orice lucru,",
+                "Cunostinta-ntregului pamânt,",
+                "S-o reversi în inima, Stapâne,",
+                "Orice-ar fi, sa pot mereu sa-Ti cânt."
+            ]
+        }
+    ]
+}

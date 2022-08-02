@@ -1,17 +1,15 @@
-export function readJSONFile(filePath: string): Promise<any> {
-    var rawFile = new XMLHttpRequest();
-    rawFile.overrideMimeType("application/json");
-    rawFile.open("GET", filePath, true);
+//= Types & Enums & Consts
+// Own
+import { OfflineCacheName } from "../data/OfflineCacheName";
 
-    const promise = new Promise((resolve) => {
-        rawFile.onreadystatechange = function () {
-            if (rawFile.readyState === 4 && rawFile.status == 200) {
-                resolve(JSON.parse(rawFile.responseText));
-            }
-        };
-    });
+export async function readJSONFile(filePath: string): Promise<any> {
+    const cache = await window.caches.open(OfflineCacheName);
 
-    rawFile.send(null);
-
-    return promise;
+    try {
+        const response = await fetch(filePath);
+        const [data] = await Promise.all([response.json(), cache.add(filePath)]);
+        return data;
+    } catch (error) {
+        return cache.match(filePath);
+    }
 }

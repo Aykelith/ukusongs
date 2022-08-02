@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+body {
+    @apply bg-[#171717];
+    @apply text-[#EDEDED];
+    @apply font-primary;
+}

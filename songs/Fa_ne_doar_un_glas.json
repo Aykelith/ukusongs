@@ -1,0 +1,24 @@
+{
+    "name": "Fa-ne doar un glas",
+    "key": "F",
+    "song": [
+        {
+            "name": "S",
+            "verses": [
+                "(D)Tata, noi (A)vrem ca (f#)slava (b)Ta",
+                "Sa (G)poata (D)fi vazuta-n (C … A)noi!",
+                "Ini(G)mile (A)noastre să de(f#)vină doar o (b)inimă.",
+                "Si a(G)tunci lumea va (D)sti ca I(G)sus este (A)Domn."
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "Fa-ne doar (D)un (f#)glas ce-ti î(G)nalta Nume(A)le!",
+                "Fa-ne doar (D)un (f#)glas ce Te (G)preamares(A)te!",
+                "Fa-ne doar (F#)un glas, un (b)gând si-o ini(E)ma…",
+                "Leaga-(e)ne pe toti (A)împreu(D)na!"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Hai, vino acum sa-L lauzi",
+    "key": "D",
+    "song": [
+        {
+            "name": "S",
+            "verses": [
+                "(D)Hai, vino acum sa-L (G)la(D)uzi!",
+                "(A)Hai, vino sa-I dai Lui (e)i - (b)ni - (G)ma!",
+                "(D)Hai, asa cum esti sa-L (G)la(D)uzi!",
+                "(A)Hai, asa cum esti ’na(e)in - (b)tea (G)Sa, (D)hai... !"
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "//: (G)Orice om va marturi(D)si ca esti Domn,",
+                "(G)Toti genunchii se vor ple(D)ca,",
+                "(G)Binecuvântati vor (b)fi toti cei ce",
+                "(G)Te vor cau(A)ta. ://"
+            ]
+        }
+    ]
+}

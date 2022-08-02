@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
         "dev": "next dev --port=15000",
-        "build": "node ./buildSongsCatalog.js && next build",
+        "build": "node ./buildSongsCatalog.js && node ./buildSongs.js && next build",
         "start": "next start",
         "lint": "next lint",
         "deploy": "npm run build && next export -o docs && echo 'ukusongs.alexprisacariu.dev' > docs/CNAME && touch docs/.nojekyll"
@@ -38,6 +38,7 @@
         "autoprefixer": "^10.4.7",
         "eslint": "^8.20.0",
         "eslint-config-next": "^12.2.3",
+        "fs-extra": "^10.1.0",
         "postcss": "^8.4.14",
         "sass": "^1.52.1",
         "tailwindcss": "^3.0.24",

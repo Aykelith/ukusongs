@@ -1,0 +1,38 @@
+{
+    "name": "Cinste, onoare",
+    "key": "C",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "(C)Cinste, (F - C)onoare",
+                "(C)Glorie, (F - C)splendoare",
+                "(C)Fie Celui din (a - F - G)vesnicii",
+                "Orice natiune",
+                "Intreaga lume",
+                "Canta Celui din vesnicii"
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "(F)Orice limba-n cer, pe pa(G)mant",
+                "Iti declara gloria",
+                "(F)Orice fiinta in fata (G)Ta",
+                "Sa (Gsus4 - G)cada",
+                "(F)Tu vei fi pe veci inal(G)tat",
+                "Si vei (F)imparati peste (G)noi",
+                "(C)Cel din vesnicii"
+            ]
+        },
+        {
+            "name": "B",
+            "verses": [
+                "(C)Pamantul asteapta venirea Ta",
+                "(A#)Glorie Celui (F)din vesni(C)cii",
+                "Sa cante tot cerul spre slava Ta",
+                "Glorie celui din vesnicii"
+            ]
+        }
+    ]
+}

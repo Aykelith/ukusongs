@@ -18,12 +18,11 @@ module.exports = {
                 "footer-bg": "#4d97e2"
             },
             fontFamily: {
-                primary: ["Poppins", "sans-serif"],
+                primary: ["'Ubuntu Mono'", "monospace"],
             },
             zIndex: {
                 header: 2000,
             },
         },
-    },
-    plugins: [require('@tailwindcss/line-clamp')],
+    }
 };

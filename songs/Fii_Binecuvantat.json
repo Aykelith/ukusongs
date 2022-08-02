@@ -1,0 +1,49 @@
+{
+    "name": "Fii Binecuvantat - Ekklesia",
+    "key": "G",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "(G)Fii bine(D)cuvantat",
+                "(e)Cand paman(C)tul e saturat",
+                "(G)Cand ploaia (D)da peste el",
+                "(e)Fii binecuvan(C)tat",
+                "(G)Fii bine(D)cuvantat",
+                "(e)Cand ma aflu (C)pe pamant uscat",
+                "(G)Si pasesc singur (D)prin pustiu",
+                "(e)Fii binecuvan(C)tat"
+            ]
+        },
+        {
+            "name": "Pc",
+            "verses": [
+                "(G)Fiecare lau(D)da Ti(e)e ti-o (D)dau",
+                "(G)Cand noaptea (D)se apropie",
+                "(e)Te voi (C)lauda"
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "(G)Binecuvantat fie (D)El",
+                "(e)Binecuvan(c)tat",
+                "(G)Binecuvantat fie (D)El",
+                "(e)Binecuvantam (c)numele Sau"
+            ]
+        },
+        {
+            "name": "S2",
+            "verses": [
+                "Fii binecuvantat",
+                "Cand soarele-i din nou pe cer",
+                "Cand toate sunt cum le-ai creat",
+                "Fii binecuvantat",
+                "Fii binecuvantat",
+                "Cand umblu printre suferinti",
+                "Chiar daca plang si-m este greu",
+                "Fii binecuvantat"
+            ]
+        }
+    ]
+}
