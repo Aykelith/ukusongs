@@ -1,0 +1,33 @@
+{
+    "name": "Ai fost răstignit",
+    "key": "D",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "Ai (D)fost răstignit și (b7)cuiele-mi spun",
+                "Ce (G2)mare Ți-a fost iu(A4)birea.",
+                "Cu(D)nuna de spini îmi (b7)spune și ea",
+                "Ce (G2)mare Ți-a fost iu(A4)birea."
+            ]
+        },
+        {
+            "name": "Pc",
+            "verses": [
+                "Când cer și (f#7)stele vor (G2)pieri,",
+                "Semne(f#7)le vor dăinu(G)i",
+                "Și pe (f#7)veci îmi vor șop(G2)ti cât m-ai iu(A4)bit,",
+                "De-aceea (A3)vreau să-Ți spun:"
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "„În (D)veci inima, în (b7)veci dragostea,",
+                "În (G2)veci viața mea este-(A)a Ta.",
+                "În (D)veci inima, în (b7)veci dragostea,",
+                "În (G2)veci viața mea este-(A)a Ta.”"
+            ]
+        }
+    ]
+}

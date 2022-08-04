@@ -1,0 +1,42 @@
+{
+    "name": "Te-am gasit pe muntii inalti",
+    "key": "D",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "Te-am ga(D)sit pe muntii înalti,",
+                "Te-am ga(G)sit pe margini de (A)râu,",
+                "Te-am ga(D - D7)sit    în parfumul de (G - g)floare,",
+                "Te-am ga(D)sit, I(A)suse, Te-am ga(D)sit!"
+            ]
+        },
+        {
+            "name": "S2",
+            "verses": [
+                "Te-am gasit pe cerul senin,",
+                "Te-am gasit în nori si furtuni,",
+                "Te-am gasit în stropii de ploaie,",
+                "Te-am gasit, Isuse, Te-am gasit!"
+            ]
+        },
+        {
+            "name": "S3",
+            "verses": [
+                "Te-am gasit în fulgul de nea,",
+                "Te-am gasit pe dealuri si stânci,",
+                "Te-am gasit în padurea-nverzita,",
+                "Te-am gasit, Isuse, Te-am gasit!"
+            ]
+        },
+        {
+            "name": "S4",
+            "verses": [
+                "Te-am gasit pe Golgota, sus,",
+                "Te-am gasit si-atunci mi-ai vorbit,",
+                "//: Te-am gasit, fericirea mi-ai dat,",
+                "Te-am gasit, Isuse, Te-am gasit! ://"
+            ]
+        }
+    ]
+}

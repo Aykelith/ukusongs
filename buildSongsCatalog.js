@@ -9,6 +9,8 @@ const SongsCatalogFilePath = path.join(PublicPath, "songs.json");
 
 let songsCatalog = { lastUpdate: Date.now(), songs: [] };
 fs.readdirSync(SongsPath).forEach(fileName => {
+    if (fileName[0] == "_") return;
+
     let songData;
     try {
         songData = JSON.parse(fs.readFileSync(path.join(SongsPath, fileName), "utf-8"));

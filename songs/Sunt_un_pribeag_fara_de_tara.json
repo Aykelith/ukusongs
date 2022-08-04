@@ -1,0 +1,51 @@
+{
+    "name": "Sunt un pribeag fara de tara",
+    "key": "a",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "Sunt un pri(a)beag fara de tara,",
+                "Rataci(d - e)tor prin lungi pus(a)tii,",
+                "Dar am în (a)ceruri o comoara",
+                "Si tara (d - e)mea e-n vesni(a)cii."
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "Ma-ndrept spre (F - G)cer, sa-L vad pe (C - a)Domnul,",
+                "(a)Sa nu mai (F - G)fiu un pere(C - E)grin.",
+                "Caci, dupa (a)ce-am sa trec Iordanul,",
+                "Se va sfâr(d - e)si  al meu sus(a)pin."
+            ]
+        },
+        {
+            "name": "S2",
+            "verses": [
+                "Voi lepada a mea povara,",
+                "Eliberat de crucea grea,",
+                "Nadejdea mea nu o sa moara",
+                "Si voi intra-n odihna Sa."
+            ]
+        },
+        {
+            "name": "S3",
+            "verses": [
+                "Tu vezi ce grea e ’naintarea,",
+                "Ma lupt sa biruiesc mereu,",
+                "Un dor nespus ma cheama-acasa,",
+                "E dorul dupa Dumnezeu."
+            ]
+        },
+        {
+            "name": "S4",
+            "verses": [
+                "Si-mi voi parcurge calea toata",
+                "Si voi ajunge-al meu sfârsit.",
+                "Primit voi fi cu bucurie",
+                "Acasa când voi fi sosit."
+            ]
+        }
+    ]
+}

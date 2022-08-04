@@ -1,0 +1,46 @@
+{
+    "name": "Spala-mi, Doamne, gândul",
+    "key": "G",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "Spala-mi, Doamne, (G)gândul,",
+                "Spala-mi, Doamne, (b)viata,",
+                "Vreau sa (C)fiu curat (a) si placut în fata (D)Ta!",
+                "Numai Tu urci (G)zorii si împrastii (b)ceata,",
+                "Numai (C)Tu esti scutul (a) si rasplata (D)mea!"
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "Spala-mi, Doamne, gândul,",
+                "Spala-mi, Doamne, viata,",
+                "Și ma fa asemeni      cu Tine mereu!",
+                "Numai Tu urci zorii    si împrastii ceata,",
+                "Numai Tu esti scutul   sufletului meu!"
+            ]
+        },
+        {
+            "name": "S2",
+            "verses": [
+                "Spala-mi, Doamne, gândul,",
+                "Spala-mi, Doamne, viata,",
+                "Ia din mintea mea orice sfat al celor rai!",
+                "Vreau sa stau cu Tine, sa-&i ascult povata,",
+                "Vreau sa pot privi mereu în ochii Tai!"
+            ]
+        },
+        {
+            "name": "S3",
+            "verses": [
+                "Spala-mi, Doamne, gândul,",
+                "Spala-mi, Doamne, viata,",
+                "Când troiene reci fac sa-mi para clipa grea!",
+                "Adu primavara ce topeste gheata,",
+                "Vreau sa merg mereu doar pe calea Ta!"
+            ]
+        }
+    ]
+}

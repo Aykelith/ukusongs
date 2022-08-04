@@ -1,0 +1,42 @@
+{
+    "name": "Vreau sa spuna cel ce-i slab",
+    "key": "C",
+    "song": [
+        {
+            "name": "S1",
+            "verses": [
+                "//: Vreau sa (C)spuna (G)cel ce-i (C)slab:",
+                "„Eu sunt (F)tare în Cris(a)tos!”",
+                "(G/B)Cel sa(C)rac: „Eu (G)sunt (C)bogat!”",
+                "Iar cel (d7)orb: „Sunt (G)sana(C)tos!” ://"
+            ]
+        },
+        {
+            "name": "R",
+            "verses": [
+                "(a)O - (G)sana, O(a)sana!",
+                "Tu esti (F)Mielul junghi(C)at!",
+                "(a)O - (G)sana, O(a)sana!",
+                "(G/B)Ai fost (C)mort si-ai (G)învi(C)at! ://"
+            ]
+        },
+        {
+            "name": "S2",
+            "verses": [
+                "Tot ce-a fost rau si murdar",
+                "Mi-ai iertat prin al Tau har.",
+                "Ca un râu, iubirea Ta",
+                "Umple azi fiinta mea."
+            ]
+        },
+        {
+            "name": "S3",
+            "verses": [
+                "Știu ca ma vei ridica",
+                "Și de-as fi-n adânc de mari.",
+                "Bucuros Te voi urma",
+                "Si, salvat, Îti voi cânta!"
+            ]
+        }
+    ]
+}

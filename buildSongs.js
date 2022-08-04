@@ -11,6 +11,8 @@ if (fs.existsSync(ProductionSongsPath)) fs.removeSync(ProductionSongsPath);
 fs.mkdirpSync(ProductionSongsPath);
 
 fs.readdirSync(ActualSongsPath).forEach(fileName => {
+    if (fileName[0] == "_") return;
+
     let songData;
     try {
         songData = JSON.parse(fs.readFileSync(path.join(ActualSongsPath, fileName), "utf-8"));
